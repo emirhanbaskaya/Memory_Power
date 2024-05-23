@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:memory_power/main.dart';
+import 'package:appjammm/main.dart';
 
 void main() {
 
